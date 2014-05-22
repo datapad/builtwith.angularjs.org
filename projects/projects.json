@@ -21,6 +21,26 @@
       "DI"
     ]
   },
+    {
+    "name": "DataPad",
+    "thumb": "datapad/thumb.png",
+    "desc": "Agile data discovery for teams.",
+    "url": "http://www.datapad.io",
+    "submitter": "caliluke",
+    "submissionDate": "2014-05-22",
+    "tags": [
+      "Production",
+      "Productivity",
+      "Analytics",
+      "Business",
+      "Collaboration",
+      "d3.js",
+      "Datavisualization",
+      "Redshift",
+      "Statistics",
+      "Coffeescript"
+    ]
+  },
   {
     "name": "DBFreebies",
     "thumb": "dbfreebies/thumb.png",
